@@ -1,3 +1,12 @@
+# who to clone my Project.
+1- copy this url=
+2-then paste on window Powershell by writing "git clone "above url" and Press Enter.
+3- Now go to the folder bmi-diet-Planner and right click and go to window powershell and write "npm install" 
+4- Now on same folder where all file were there paste this two file "public and src"
+5-Now write "npm start" in the window Powershell and project will run.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
